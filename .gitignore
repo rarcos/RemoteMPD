@@ -1,2 +1,6 @@
-out
+build/
 .gradle
+*.iml
+.idea
+local.properties
+.DS_Store
