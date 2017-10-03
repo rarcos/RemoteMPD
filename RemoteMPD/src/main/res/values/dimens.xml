@@ -5,4 +5,5 @@
 
     <dimen name="playerbutton_height">70dip</dimen>
     <dimen name="playerbutton_width">65dip</dimen>
-    </resources>
+    <dimen name="abc_action_bar_default_height">48dip</dimen>
+</resources>
